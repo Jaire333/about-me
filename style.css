@@ -1,0 +1,19 @@
+p {
+    color:white;
+    font-style: italic;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    background-image: url("http://artfiles.alphacoders.com/548/54801.jpg");
+    border: 5px solid purple;
+}
+li a{
+    color: white;
+    font-style:;
+}
+body {
+    background-image: url("http://img01.deviantart.net/3b15/i/2006/245/1/6/purple_by_norwegianangel.jpg");
+}
